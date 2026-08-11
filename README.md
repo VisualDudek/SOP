@@ -5,4 +5,5 @@ one SOP for all
 
 - [Helix](helix.md)
 - [Yazi](yazi.md)
+- [Zellij](zellij.md)
 
